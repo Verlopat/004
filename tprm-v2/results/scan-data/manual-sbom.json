@@ -1,0 +1,2 @@
+Command "packages" is deprecated, use `syft scan` instead
+[31munknown shorthand flag: 'n' in -n[0m

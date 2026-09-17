@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vendor-a-vulnerable
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vendor-a
+  template:
+    metadata:
+      labels:
+        app: vendor-a
+    spec:
+      containers:
+      - name: nginx-vuln
+        image: nginx:1.23-alpine
+        ports:
+        - containerPort: 80
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vendor-b-clean
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vendor-b
+  template:
+    metadata:
+      labels:
+        app: vendor-b
+    spec:
+      containers:
+      - name: nginx-clean
+        image: nginx:1.25-alpine
+        ports:
+        - containerPort: 80

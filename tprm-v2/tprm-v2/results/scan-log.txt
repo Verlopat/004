@@ -1,0 +1,6 @@
+Starting 30-cycle scan at Fri Apr 10 12:24:52 PM IST 2026
+=== CYCLE 1 (Fri Apr 10 12:24:52 PM IST 2026) ===
+Command "packages" is deprecated, use `syft scan` instead
+[31munknown shorthand flag: 'n' in -n[0m
+[0002] ERROR [31mfailed to catalog: unable to decode sbom: sbom format not recognized[0m
+Cycle 1 complete: 0 results/scan-data/grype-vendor1-c1.json vulns

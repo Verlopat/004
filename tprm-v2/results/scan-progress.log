@@ -1,0 +1,160 @@
+=== IMAGE SCANNER v2 STARTED: Fri Apr 10 12:35:17 PM IST 2026 ===
+=== CYCLE 1 (Fri Apr 10 12:35:17 PM IST 2026) ===
+Scanning: nginx:1.25-alpine
+CYCLE 1: 137 total ( fixed)
+=== CYCLE 2 (Fri Apr 10 12:40:22 PM IST 2026) ===
+Scanning: nginx:1.24-alpine
+CYCLE 2: 158 total ( fixed)
+=== CYCLE 3 (Fri Apr 10 12:45:33 PM IST 2026) ===
+Scanning: nginx:1.24-alpine
+CYCLE 3: 158 total ( fixed)
+=== CYCLE 4 (Fri Apr 10 12:50:36 PM IST 2026) ===
+Scanning: nginx:1.24-alpine
+CYCLE 4: 158 total ( fixed)
+=== CYCLE 5 (Fri Apr 10 12:55:40 PM IST 2026) ===
+Scanning: nginx:1.23-alpine
+CYCLE 5: 212 total ( fixed)
+=== CYCLE 6 (Fri Apr 10 01:00:44 PM IST 2026) ===
+Scanning: nginx:1.23-alpine
+CYCLE 6: 212 total ( fixed)
+=== CYCLE 7 (Fri Apr 10 01:05:47 PM IST 2026) ===
+Scanning: nginx:1.23-alpine
+CYCLE 7: 212 total ( fixed)
+=== CYCLE 8 (Fri Apr 10 01:10:51 PM IST 2026) ===
+Scanning: busybox:1.35-glibc
+CYCLE 8: 6 total ( fixed)
+=== CYCLE 9 (Fri Apr 10 01:15:57 PM IST 2026) ===
+Scanning: busybox:1.35-glibc
+CYCLE 9: 6 total ( fixed)
+=== CYCLE 10 (Fri Apr 10 01:20:59 PM IST 2026) ===
+Scanning: busybox:1.35-glibc
+CYCLE 10: 6 total ( fixed)
+=== CYCLE 11 (Fri Apr 10 01:26:01 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 11: 10 total ( fixed)
+=== CYCLE 12 (Fri Apr 10 01:31:08 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 12: 10 total ( fixed)
+=== CYCLE 13 (Fri Apr 10 01:36:10 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 13: 10 total ( fixed)
+=== CYCLE 14 (Fri Apr 10 01:41:12 PM IST 2026) ===
+Scanning: nginx:1.25-alpine
+CYCLE 14: 137 total ( fixed)
+=== CYCLE 15 (Fri Apr 10 01:46:16 PM IST 2026) ===
+Scanning: nginx:1.25-alpine
+CYCLE 15: 137 total ( fixed)
+=== CYCLE 16 (Fri Apr 10 01:52:16 PM IST 2026) ===
+Scanning: nginx:1.25-alpine
+CYCLE 16: 137 total ( fixed)
+=== CYCLE 17 (Fri Apr 10 01:57:20 PM IST 2026) ===
+Scanning: nginx:1.24-alpine
+CYCLE 17: 158 total ( fixed)
+=== CYCLE 18 (Fri Apr 10 02:02:25 PM IST 2026) ===
+Scanning: nginx:1.24-alpine
+CYCLE 18: 158 total ( fixed)
+=== CYCLE 19 (Fri Apr 10 02:07:29 PM IST 2026) ===
+Scanning: nginx:1.24-alpine
+CYCLE 19: 158 total ( fixed)
+=== CYCLE 20 (Fri Apr 10 02:12:33 PM IST 2026) ===
+Scanning: nginx:1.23-alpine
+CYCLE 20: 212 total ( fixed)
+=== CYCLE 21 (Fri Apr 10 02:17:37 PM IST 2026) ===
+Scanning: nginx:1.23-alpine
+CYCLE 21: 212 total ( fixed)
+=== CYCLE 22 (Fri Apr 10 02:22:41 PM IST 2026) ===
+Scanning: nginx:1.23-alpine
+CYCLE 22: 212 total ( fixed)
+=== CYCLE 23 (Fri Apr 10 02:27:45 PM IST 2026) ===
+Scanning: busybox:1.35-glibc
+CYCLE 23: 6 total ( fixed)
+=== CYCLE 24 (Fri Apr 10 02:32:47 PM IST 2026) ===
+Scanning: busybox:1.35-glibc
+CYCLE 24: 6 total ( fixed)
+=== CYCLE 25 (Fri Apr 10 02:37:49 PM IST 2026) ===
+Scanning: busybox:1.35-glibc
+CYCLE 25: 6 total ( fixed)
+=== CYCLE 26 (Fri Apr 10 02:42:51 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 26: 10 total ( fixed)
+=== CYCLE 27 (Fri Apr 10 02:47:54 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 27: 10 total ( fixed)
+=== CYCLE 28 (Fri Apr 10 02:52:56 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 28: 10 total ( fixed)
+=== CYCLE 29 (Fri Apr 10 02:57:59 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 29: 10 total ( fixed)
+=== CYCLE 30 (Fri Apr 10 03:03:01 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 30: 10 total ( fixed)
+=== CYCLE 31 (Fri Apr 10 03:08:03 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 31: 10 total ( fixed)
+=== CYCLE 32 (Fri Apr 10 03:13:06 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 32: 10 total ( fixed)
+=== CYCLE 33 (Fri Apr 10 03:18:08 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 33: 10 total ( fixed)
+=== CYCLE 34 (Fri Apr 10 03:23:11 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 34: 10 total ( fixed)
+=== CYCLE 35 (Fri Apr 10 03:28:13 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 35: 10 total ( fixed)
+=== CYCLE 36 (Fri Apr 10 03:33:16 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 36: 10 total ( fixed)
+=== CYCLE 37 (Fri Apr 10 03:38:18 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 37: 10 total ( fixed)
+=== CYCLE 38 (Fri Apr 10 03:43:21 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 38: 10 total ( fixed)
+=== CYCLE 39 (Fri Apr 10 03:48:23 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 39: 10 total ( fixed)
+=== CYCLE 40 (Fri Apr 10 03:53:26 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 40: 10 total ( fixed)
+=== CYCLE 41 (Fri Apr 10 03:58:29 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 41: 10 total ( fixed)
+=== CYCLE 42 (Fri Apr 10 04:03:31 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 42: 10 total ( fixed)
+=== CYCLE 43 (Fri Apr 10 04:08:33 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 43: 10 total ( fixed)
+=== CYCLE 44 (Fri Apr 10 04:13:36 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 44: 10 total ( fixed)
+=== CYCLE 45 (Fri Apr 10 04:18:39 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 45: 10 total ( fixed)
+=== CYCLE 46 (Fri Apr 10 04:23:41 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 46: 10 total ( fixed)
+=== CYCLE 47 (Fri Apr 10 04:28:43 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 47: 10 total ( fixed)
+=== CYCLE 48 (Fri Apr 10 04:33:46 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 48: 10 total ( fixed)
+=== CYCLE 49 (Fri Apr 10 04:38:49 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 49: 10 total ( fixed)
+=== CYCLE 50 (Fri Apr 10 04:43:52 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 50: 10 total ( fixed)
+=== CYCLE 51 (Fri Apr 10 04:48:55 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 51: 10 total ( fixed)
+=== CYCLE 52 (Fri Apr 10 04:53:59 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 52: 10 total ( fixed)
+=== CYCLE 53 (Fri Apr 10 04:59:01 PM IST 2026) ===
+Scanning: alpine:3.18
+CYCLE 53: 10 total ( fixed)

@@ -1,0 +1,20 @@
+nohup: ignoring input
+./scan-docker.sh: line 11: /out/sbom-vendor1-c1.json: No such file or directory
+./scan-docker.sh: line 19: /out/grype-vendor1-c1.json: No such file or directory
+Unable to find image 'anchore/grype:latest' locally
+latest: Pulling from anchore/grype
+ab3cadfb4263: Pulling fs layer
+5a1933abd0f1: Pulling fs layer
+ede684be9bfd: Pulling fs layer
+ab3cadfb4263: Verifying Checksum
+ab3cadfb4263: Download complete
+ab3cadfb4263: Pull complete
+5a1933abd0f1: Verifying Checksum
+5a1933abd0f1: Download complete
+5a1933abd0f1: Pull complete
+ede684be9bfd: Verifying Checksum
+ede684be9bfd: Download complete
+ede684be9bfd: Pull complete
+Digest: sha256:af9f30d1de4ecfbbcd2b674371e8df787879e16832af8ab81551b0bf1ec0ad5b
+Status: Downloaded newer image for anchore/grype:latest
+[0050] ERROR failed to catalog: unable to open file /out/sbom-vendor1-c1.json: open /out/sbom-vendor1-c1.json: no such file or directory

@@ -1,0 +1,22 @@
+nohup: ignoring input
+deployment.apps/nginx-vendor1 image updated
+INJECTION 0: nginx:1.24-alpine → nginx:1.25-alpine (Fri Apr 10 12:24:52 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 1: nginx:1.25-alpine → nginx:1.24-alpine (Fri Apr 10 12:39:52 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 2: nginx:1.24-alpine → nginx:1.23-alpine (Fri Apr 10 12:54:52 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 3: nginx:1.23-alpine → busybox:1.35-glibc (Fri Apr 10 01:09:53 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 4: busybox:1.35-glibc → alpine:3.18 (Fri Apr 10 01:24:53 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 5: alpine:3.18 → nginx:1.25-alpine (Fri Apr 10 01:39:53 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 6: nginx:1.25-alpine → nginx:1.24-alpine (Fri Apr 10 01:54:53 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 7: nginx:1.24-alpine → nginx:1.23-alpine (Fri Apr 10 02:09:53 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 8: nginx:1.23-alpine → busybox:1.35-glibc (Fri Apr 10 02:24:54 PM IST 2026)
+deployment.apps/nginx-vendor1 image updated
+INJECTION 9: busybox:1.35-glibc → alpine:3.18 (Fri Apr 10 02:39:54 PM IST 2026)
+10 injections complete!

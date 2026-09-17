@@ -1,0 +1,12 @@
+nohup: ignoring input
+INJECTION 0: nginx:1.25-alpine → nginx:1.25-alpine (Fri Apr 10 12:26:23 PM IST 2026)
+INJECTION 1: nginx:1.24-alpine → nginx:1.24-alpine (Fri Apr 10 12:41:24 PM IST 2026)
+INJECTION 2: nginx:1.23-alpine → nginx:1.23-alpine (Fri Apr 10 12:56:24 PM IST 2026)
+INJECTION 3: busybox:1.35-glibc → busybox:1.35-glibc (Fri Apr 10 01:11:24 PM IST 2026)
+INJECTION 4: alpine:3.18 → alpine:3.18 (Fri Apr 10 01:26:24 PM IST 2026)
+INJECTION 5: nginx:1.25-alpine → nginx:1.25-alpine (Fri Apr 10 01:41:24 PM IST 2026)
+INJECTION 6: nginx:1.24-alpine → nginx:1.24-alpine (Fri Apr 10 01:56:24 PM IST 2026)
+INJECTION 7: nginx:1.23-alpine → nginx:1.23-alpine (Fri Apr 10 02:11:24 PM IST 2026)
+INJECTION 8: busybox:1.35-glibc → busybox:1.35-glibc (Fri Apr 10 02:26:25 PM IST 2026)
+INJECTION 9: alpine:3.18 → alpine:3.18 (Fri Apr 10 02:41:25 PM IST 2026)
+10 injections complete!

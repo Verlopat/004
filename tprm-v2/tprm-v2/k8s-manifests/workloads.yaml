@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-vendor1
+  namespace: vendor1
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx-v1
+  template:
+    metadata:
+      labels:
+        app: nginx-v1
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:1.25-alpine  # STARTS CLEAN - WILL BE INJECTED

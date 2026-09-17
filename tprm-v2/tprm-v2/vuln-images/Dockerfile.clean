@@ -1,0 +1,2 @@
+FROM nginx:1.25-alpine
+LABEL vuln="clean" cve="none"
